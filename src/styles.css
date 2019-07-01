@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+
+.cursor {
+  cursor: pointer;
+}
+
+@media (max-width: 575.98px) {
+  .form-inline {
+    display: -webkit-box;
+    flex-flow: nowrap;
+  }
+}

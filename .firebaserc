@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "cur-exch"
+  },
+  "targets": {
+    "cur-exch": {
+      "hosting": {
+        "target-name": [
+          "dist"
+        ]
+      }
+    }
+  }
+}
